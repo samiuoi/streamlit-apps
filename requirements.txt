@@ -1,0 +1,10 @@
+vnstock
+pandas
+streamlit
+plotly
+yfinance
+xgboost
+scikit-learn
+numpy
+matplotlib
+pandas_ta
