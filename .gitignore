@@ -1,0 +1,6 @@
+.venv/
+.idea/
+*.pyc
+*.log
+stock_data/
+stock_cache_*.pkl
